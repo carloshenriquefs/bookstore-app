@@ -42,6 +42,8 @@ classDiagram
 
 ### :game_die: - Spring Data JPA:
 
+##
+
 ![springDataJpa drawio](https://github.com/carloshenriquefs/bookstore-app/assets/54969405/805c0d80-4036-4e05-a9d5-e128423e5ddf)
 
 ##
@@ -54,4 +56,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Maven]
 - [Spring]
 - [Postman]
-- [MySQL]
+- [Postgres]
